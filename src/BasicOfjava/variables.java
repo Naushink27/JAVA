@@ -1,3 +1,5 @@
+package BasicOfjava;
+
 public class variables {
     static int m=10;//static variable
 

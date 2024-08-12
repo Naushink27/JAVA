@@ -1,3 +1,5 @@
+package BasicOfjava;
+
 import java.util.Arrays;
 
 public class NonPrimitivedataType {
